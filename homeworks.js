@@ -13,9 +13,8 @@
 // ============================================================
 
 window.HOMEWORKS = [
-  { id: 1, title: "HW #1", desc: "Build domain for homework",  file: "HW1.pdf"  },
-  { id: 2, title: "HW #2", desc: "Blog for website",           file: null        },
-  { id: 3, title: "HW #3", desc: "Fix errors",                 file: null        },
-  { id: 4, title: "HW #4", desc: "Answer questions",           file: null        },
-  { id: 5, title: "HW #5", desc: ".",                          file: null        }
+  { id: 2, title: "HW #2", desc: "Blog for website",           file: HW2.docx    },
+  { id: 3, title: "HW #3", desc: "Fix errors",                 file: HW3.html   },
+  { id: 4, title: "HW #4", desc: "Answer questions",           file: HW4.docx    },
+  { id: 5, title: "HW #5", desc: ".",                          file: HW5.docx   }
 ];
