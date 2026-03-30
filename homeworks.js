@@ -1,0 +1,21 @@
+// ============================================================
+//  HOMEWORK LIST — Edit this file to add/update homework
+//
+//  HOW TO ADD A NEW HOMEWORK:
+//  1. Upload your file to GitHub (e.g. HW1.pdf)
+//  2. Add a new entry below like this:
+//     { id: 6, title: "HW #6", desc: "Your description", file: "HW6.pdf" }
+//
+//  If the file is not ready yet, set file to null:
+//     { id: 6, title: "HW #6", desc: "Coming soon", file: null }
+//
+//  The "file" value is the filename/path in your GitHub repo.
+// ============================================================
+
+window.HOMEWORKS = [
+  { id: 1, title: "HW #1", desc: "Build domain for homework",  file: "HW1.pdf"  },
+  { id: 2, title: "HW #2", desc: "Blog for website",           file: null        },
+  { id: 3, title: "HW #3", desc: "Fix errors",                 file: null        },
+  { id: 4, title: "HW #4", desc: "Answer questions",           file: null        },
+  { id: 5, title: "HW #5", desc: ".",                          file: null        }
+];
