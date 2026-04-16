@@ -16,5 +16,7 @@ window.HOMEWORKS = [
   { id: 2, title: "HW #2", desc: "Blog for website",           file: "HW2.docx"    },
   { id: 3, title: "HW #3", desc: "Fix errors",                 file: "HW3.html"   },
   { id: 4, title: "HW #4", desc: "Answer questions",           file: "HW4.docx"    },
-  { id: 5, title: "HW #5", desc: ".",                          file: "HW5.docx"   }
+  { id: 5, title: "HW #5", desc: ".",                          file: "HW5.docx"   },
+  { id: 5, title: "HW #6", desc: ".",                          file: "HW6.pdf"   },
+  { id: 5, title: "HW #7", desc: ".",                          file: "HW7.pdf"   }
 ];
